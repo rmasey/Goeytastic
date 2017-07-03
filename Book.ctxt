@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=BookID\ Title\ AuthorID
+comment0.target=Book(int,\ java.lang.String,\ int)
+comment0.text=Next,\ prepare\ a\ constructor\ that\ takes\ each\ of\ the\ fields\ as\ arguements.
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=A\ toString\ method\ is\ vital\ so\ that\ your\ model\ items\ can\ be\ sensibly\ displayed\ as\ text.
+comment2.params=
+comment2.target=int\ getBookID()
+comment3.params=
+comment3.target=java.lang.String\ getTitle()
+comment4.params=
+comment4.target=int\ getAuthorID()
+comment5.params=BookID
+comment5.target=void\ setBookID(int)
+comment6.params=Title
+comment6.target=void\ setTitle(java.lang.String)
+comment7.params=AuthorID
+comment7.target=void\ setAuthorID(int)
+numComments=8

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=void\ launchFX()
+comment10.params=we
+comment10.target=void\ terminate(javafx.stage.WindowEvent)
+comment2.params=
+comment2.target=void\ initialiseGUI()
+comment3.params=
+comment3.target=void\ loadAllAuthors()
+comment4.params=
+comment4.target=void\ loadBooks()
+comment5.params=
+comment5.target=void\ addBook()
+comment6.params=
+comment6.target=void\ deleteBook()
+comment7.params=e
+comment7.target=void\ colTitle_OnEditCommit(javafx.event.Event)
+comment8.params=e
+comment8.target=void\ colFirstName_OnEditCommit(javafx.event.Event)
+comment9.params=e
+comment9.target=void\ colSecondName_OnEditCommit(javafx.event.Event)
+numComments=11

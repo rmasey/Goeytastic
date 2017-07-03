@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=dbFile
+comment0.target=DatabaseConnection(java.lang.String)
+comment0.text=\ This\ method\ is\ the\ constructor.\ When\ a\ new\ DatabaseConnection\ object\ is\ created\ a\ connection\r\nto\ the\ database\ is\ established\ using\ the\ filename\ and\ database\ drive.
+comment1.params=query
+comment1.target=java.sql.PreparedStatement\ newStatement(java.lang.String)
+comment1.text=This\ method\ is\ used\ to\ prepare\ each\ new\ query.\ The\ query\ isn't\ executed\ until\ later.
+comment2.params=statement
+comment2.target=java.sql.ResultSet\ runQuery(java.sql.PreparedStatement)
+comment2.text=This\ method\ is\ used\ to\ actually\ execute\ a\ query\ that\ has\ previously\ been\ prepared.
+comment3.params=statement
+comment3.target=void\ executeUpdate(java.sql.PreparedStatement)
+comment3.text=This\ method\ is\ used\ to\ execute\ a\ statement\ that\ changes\ the\ database\ (i.e.\ INSERT,\ UPDATE\ or\ DELETE).
+comment4.params=
+comment4.target=void\ disconnect()
+comment4.text=Finally,\ this\ method\ is\ called\ when\ the\ application\ is\ terminating\ to\ close\ the\ database\ connection.
+numComments=5
